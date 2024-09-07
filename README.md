@@ -1,3 +1,5 @@
+![Sample screenshot](screenshot.png)
+
 # Sudoku Solver using DFS in Python
 
 This is a Python implementation of a Sudoku solver that uses Depth First Search (DFS) to explore potential solutions and resolve a given Sudoku puzzle.
