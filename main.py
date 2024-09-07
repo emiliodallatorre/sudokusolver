@@ -7,7 +7,7 @@ from sudoku_solver import solve_sudoku
 
 def after_each_step_callback(solution: list[int]) -> None:
     print_sudoku_and_solution(sudoku, solution)
-    sleep(0.1)
+    sleep(0.0001)
 
 
 sudoku: list[int] = read_board("sample_data/sample_input.txt")
